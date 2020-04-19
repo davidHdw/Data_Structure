@@ -1,20 +1,21 @@
 # K个一组翻转链表 解题笔记
 
-![节点](./pic/题目.png)
+![题目描述](./pic/题目.png)
 
 难度：Hard
 
 ## 解题方法一：迭代法
 
-![节点](./pic/迭代法步骤.png)
+![步骤分析](./pic/迭代法步骤.png)
 
 * 过程图解
-![节点](./pic/迭代法图解.jpg)
+![过程图解](./pic/迭代法图解.jpg)
 
 * 代码如下：
-![节点](./pic/迭代code.jpg)
+![代码图](./pic/迭代code.jpg)
 
-* 以上过程参考：https://leetcode-cn.com/problems/reverse-nodes-in-k-group/solution/tu-jie-kge-yi-zu-fan-zhuan-lian-biao-by-user7208t/
+* 以上过程参考：
+  <https://leetcode-cn.com/problems/reverse-nodes-in-k-group/solution/tu-jie-kge-yi-zu-fan-zhuan-lian-biao-by-user7208t/>
 
 * 复杂度计算：
   
@@ -27,7 +28,7 @@
 ## 解题方法二：递归实现
 
 * 一个单链表反转的递归动画
-![节点](http://emoji.qpic.cn/wx_emoji/VXNGEiaqHR4FteNp2jCgvUf2GvdxJFDX9qmicRtJx6x01koa2OKBrdhgd8b35ezEGh/)
+![动图演示](http://emoji.qpic.cn/wx_emoji/VXNGEiaqHR4FteNp2jCgvUf2GvdxJFDX9qmicRtJx6x01koa2OKBrdhgd8b35ezEGh/)
 
 * 代码如下：
-![节点](./pic/递归code.png)
+![代码图](./pic/递归code.png)
